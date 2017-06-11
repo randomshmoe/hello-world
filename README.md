@@ -1,2 +1,2 @@
 # hello-world
-Hello work!
+Hello world, I'm just a random shmoe.
